@@ -1,4 +1,2 @@
 # WishMerchants
-BuildMyWishes - Because all good things in life need planning
-
-BuildMyWishes helps a person first define what the specific Wish or set of Wishes are.
+A list of cool utilities that from Wishmerchants that help build the platform.
